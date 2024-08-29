@@ -27,5 +27,5 @@ After downloading the extracted features, please adjust your file path according
 To evaluate our ABC method, run:
 
 ```eval
-python ABC.py
+python CABC.py
 ```
